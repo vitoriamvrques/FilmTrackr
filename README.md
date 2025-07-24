@@ -1,1 +1,2 @@
 # FilmTrackr
+#O FilmTrackr é um projeto que criei no 4° semestre da faculdade, onde o objetivo era fazer um programa em Java com menu interativo de no mínimo 5 opções, integrado a um banco de dados. Projetei então um sistema de cadastro de filmes, onde o usuário consegue colocar todas as informações e dar uma nota no final. O menu contém as opções de adicionar, alterar, consultar e excluir filmes.
